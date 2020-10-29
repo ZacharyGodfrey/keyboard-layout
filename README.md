@@ -1,6 +1,8 @@
 # keyboard-layout
 
-![layout](/images/layout.png)
+![layer-0](/images/layer-0.png)
+
+![layer-1](/images/layer-1.png)
 
 ## Notes:
 
@@ -12,3 +14,4 @@
 - https://pimpmykeyboard.com/all-products/
 - https://qmk.fm/
 - https://config.qmk.fm/#/idobo/LAYOUT_ortho_5x15
+- https://github.com/qmk/qmk_toolbox/releases
