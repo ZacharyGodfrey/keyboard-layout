@@ -4,7 +4,7 @@
 
 ## Notes:
 
-- Board: Idobo 5x15 Ortholinear
+- Board: Idobo (ID75) 5x15 Ortholinear
 - Keycap Profile: DSA
 
 ## References:
