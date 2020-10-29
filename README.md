@@ -15,3 +15,4 @@
 - https://qmk.fm/
 - https://config.qmk.fm/#/idobo/LAYOUT_ortho_5x15
 - https://github.com/qmk/qmk_toolbox/releases
+- https://www.youtube.com/watch?v=IqxBk1QtdUE
