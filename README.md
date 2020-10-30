@@ -2,10 +2,15 @@
 
 ![layout](/images/layout.png)
 
-## Notes:
+## Specs & Costs:
 
-- Board: Idobo (ID75) 5x15 Ortholinear
-- Keycap Profile: DSA
+|Cost|Item|Description|
+|--:|:--|:--|
+|$105.00|Board Kit|Idobo ID75 5x15 Ortholinear|
+|$36.00|Key Switches|Cherry MX Brown (75 Pack)|
+|TBD|Key Caps|TBD|
+
+**Total Cost: $141.00**
 
 ## References:
 
