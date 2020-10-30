@@ -1,8 +1,6 @@
 # keyboard-layout
 
-![layer-0](/images/layer-0.png)
-
-![layer-1](/images/layer-1.png)
+![layout](/images/layout.png)
 
 ## Notes:
 
