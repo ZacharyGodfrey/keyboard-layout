@@ -1,5 +1,7 @@
 # keyboard-layout
 
+A custom-build mechanical keyboard for fun and productivity.
+
 ![layout](/images/layout.png)
 
 ## Specs & Costs:
@@ -8,19 +10,15 @@
 |--:|:--|:--|
 |$105.00|Board Kit|Idobo ID75 5x15 Ortholinear|
 |$36.00|Key Switches|Cherry MX Brown (75 Pack)|
-|TBD|Key Caps|TBD|
+|$79.00|Key Caps|[High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Common Kit)|
+|$54.00|Key Caps|[High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Mono Legends)|
+|$27.00|Key Caps|[DSA Standard Keyset](https://pimpmykeyboard.com/dsa-standard-sublimated-keysets) (Ortho Text Modifiers) Blue (BCT)|
+|$27.00|Key Caps|[DSA Standard Keyset](https://pimpmykeyboard.com/dsa-standard-sublimated-keysets) (Ortho Icon Modifiers) Blue (BCT)|
 
-**Total Cost: $141.00**
+**Total Cost:** $328.00 *Excluding taxes and shipping costs*
+
+**Note:** All keycaps are [Signature Plastics](https://pimpmykeyboard.com/) DSA Profile Sublimated PBT.
 
 ## References:
 
-- https://qmk.fm/
-- https://config.qmk.fm/#/idobo/LAYOUT_ortho_5x15
-- https://github.com/qmk/qmk_toolbox/releases
-- https://www.youtube.com/watch?v=IqxBk1QtdUE
-- https://www.amazon.com/YMDK-Keycap-Switches-Keyboard-Planck/dp/B07B8HFY9L
-- https://www.amazon.com/YMDK-Customized-Keycap-Switches-Keyboard/dp/B08D7BGJFT
-- https://www.amazon.com/Blue-Hat-Mechanical-Switches-Translucent/dp/B07SMPX3CL
-- https://www.amazon.com/Keycaps-Suitable-Ortholinear-Keyboard-Preonic/dp/B07TLWX3TX
-- https://www.amazon.com/Wholesales-YMDK-Keycap-Switches-Keyboard/dp/B07TK31JWC
-- https://pimpmykeyboard.com/dsa-individual-keys-sublimated/
+- https://qmk.fm
