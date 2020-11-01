@@ -10,8 +10,8 @@ A custom-built mechanical keyboard for productivity and fun.
 |--:|:--|:--|
 |$105.00|Board Kit|Idobo ID75 5x15 Ortholinear|
 |$36.00|Key Switches|Cherry MX Brown (75 Pack)|
-|$79.00|Key Caps|[High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Common Kit)|
-|$54.00|Key Caps|[High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Mono Legends)|
+|$79.00|Key Caps|[DSA High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Common Kit)|
+|$54.00|Key Caps|[DSA High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Mono Legends)|
 |$27.00|Key Caps|[DSA Standard Keyset](https://pimpmykeyboard.com/dsa-standard-sublimated-keysets) (Ortho Text Modifiers) Blue (BCT)|
 |$27.00|Key Caps|[DSA Standard Keyset](https://pimpmykeyboard.com/dsa-standard-sublimated-keysets) (Ortho Icon Modifiers) Blue (BCT)|
 
