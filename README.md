@@ -8,7 +8,7 @@ A custom-built mechanical keyboard for productivity and fun.
 
 |Cost|Item|Description|
 |--:|:--|:--|
-|$105.00|Board Kit|Idobo ID75 5x15 Ortholinear|
+|$105.00|Board Kit|Idobo ID75 5x15 Ortholinear (Hot-Swap)|
 |$36.00|Key Switches|Cherry MX Brown (75 Pack)|
 |$79.00|Key Caps|[DSA High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Common Kit)|
 |$54.00|Key Caps|[DSA High Contrast Granite](https://pimpmykeyboard.com/dsa-high-contrast-granite-keyset-sublimated) (Mono Legends)|
