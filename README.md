@@ -16,7 +16,7 @@ A custom-built mechanical keyboard for productivity and fun.
 |$27.00|Key Caps|[DSA Standard Keyset](https://pimpmykeyboard.com/dsa-standard-sublimated-keysets) (Ortho Icon Modifiers) Blue (BCT)|
 |$8.00|Key Caps|[DSA 2 Space (POS - 2 Mounts) (Pack Of 4)](https://pimpmykeyboard.com/dsa-2-space-pos-2-mounts-pack-of-4) Blue (BCT)|
 
-**Total Cost:** $328.00 *Excluding taxes and shipping costs*
+**Total Cost:** $336.00 *Excluding taxes and shipping costs*
 
 **Note:** All keycaps are [Signature Plastics](https://pimpmykeyboard.com/) DSA Profile Sublimated PBT.
 
