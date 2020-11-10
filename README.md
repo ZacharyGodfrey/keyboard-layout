@@ -4,7 +4,7 @@ A custom-built mechanical keyboard for productivity and fun.
 
 ![layout](/images/layout.png)
 
-## Specs & Costs:
+## Parts & Costs:
 
 |Cost|Item|Description|
 |--:|:--|:--|
