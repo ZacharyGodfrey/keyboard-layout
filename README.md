@@ -1,6 +1,6 @@
 # keyboard-layout
 
-A custom-built mechanical keyboard for productivity and fun.
+A custom mechanical keyboard built for programming.
 
 ![layout](/images/layout.png)
 
