@@ -20,6 +20,19 @@ A custom mechanical keyboard built for programming.
 
 **Note:** All keycaps are [Signature Plastics](https://pimpmykeyboard.com/) DSA Profile Sublimated PBT.
 
+## Instructions:
+
+1. Use [this tool](https://config.qmk.fm) to create a keyboard layout
+2. Save a screenshot of the new layout as `images/layout.png`
+3. Save the layout as `layout.json`
+4. Download full source as `firmware-source.zip`
+5. Download firmware file as `firmware.hex`
+6. Run `tools/qmk_toolbox.exe`
+7. Connect the keyboard
+8. Open the `firmware.hex` file
+9. Hit the reset button on the keyboard
+10. Flash the firmware onto the keyboard
+
 ## References:
 
 - https://qmk.fm
